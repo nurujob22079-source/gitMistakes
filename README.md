@@ -1,1 +1,1 @@
-Description of project
+Description of the application
